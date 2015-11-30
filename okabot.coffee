@@ -2,7 +2,7 @@
 DocomoAPIの雑談機能をそのままつかっただけのBOT
 GASで使用するには、Javascriptへコンパイルする必要があります。
 APIの説明はこちら https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_name=dialogue&p_name=api_1#tag01
-token,apikeiは各自設定が必要です
+token, apikey は各自設定が必要です
 ###
 token = '<<Slackのtoken>>'
 apikey = 'Docomo API Key'
